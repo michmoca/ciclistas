@@ -1,0 +1,3 @@
+__pyscache__/
+db.sqlite3
+*.pyc
